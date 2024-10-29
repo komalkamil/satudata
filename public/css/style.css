@@ -1,0 +1,92 @@
+body{
+    color: white;
+  transition: all ease 500ms;
+
+}
+nav{
+  transition: all ease 500ms;
+
+}
+.navbar{
+z-index: 999;
+color: white;
+padding: 10px;
+transition: all ease 500ms;
+}
+.navbar-nav{
+    font-size: 14px;
+    font-weight: 500;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+    
+    
+}
+.p-7 {
+    padding-left: 7% !important;
+    padding-right: 7% !important;
+}
+
+.text-banner {
+    font-size: 48px;
+    letter-spacing: 1px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    line-height: 70px;
+}
+.hero{
+    color: white;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    background-color: #3b82f6;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-top: -100px;
+}
+.banner{
+    color: white;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    background-image: url("../img/bg_pusdatin.svg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-top: -200px;
+}
+
+
+  /* input search */
+  /* Styles for wrapping the search box */
+
+/* Styles for wrapping the search box */
+
+
+
+.cari{
+    position: relative;
+    left: -100px;
+    z-index: 99999;
+    width: 8rem;
+    font-weight: bold;
+}
+.gambar{
+    width: 360px;
+}
+.bg-footer{
+    background-color: #202942;
+}
+
+th, td{
+    padding: 16px !important;
+}
+table{
+    border-collapse: separate!important;
+}

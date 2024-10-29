@@ -1,0 +1,1602 @@
+INFO - 2024-10-28 01:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 01:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:14:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 02:23:38 --> ArgumentCountError: Too few arguments to function App\Controllers\Backend\Masterjenisdatas::update(), 0 passed in C:\xampp\htdocs\app\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: backend/masterjenisdatas/update]
+in APPPATH\Controllers\Backend\Masterjenisdatas.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterjenisdatas->update()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterjenisdatas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 02:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:25:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 02:25:57 --> TypeError: CodeIgniter\Validation\StrictRules\Rules::is_unique(): Argument #2 ($field) must be of type string, null given, called in C:\xampp\htdocs\app\system\Validation\Validation.php on line 338
+[Method: POST, Route: backend/masterjenisdatas/update/1]
+in SYSTEMPATH\Validation\StrictRules\Rules.php on line 204.
+ 1 SYSTEMPATH\Validation\Validation.php(338): CodeIgniter\Validation\StrictRules\Rules->is_unique('Data lama', null)
+ 2 SYSTEMPATH\Validation\Validation.php(204): CodeIgniter\Validation\Validation->processRules('jenis_data', 'jenis_data', 'Data lama', [...], [...], 'jenis_data')
+ 3 SYSTEMPATH\Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Backend\Masterjenisdatas.php(72): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterjenisdatas->update('1')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterjenisdatas))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 02:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 02:28:09 --> TypeError: CodeIgniter\Validation\StrictRules\Rules::is_unique(): Argument #2 ($field) must be of type string, null given, called in C:\xampp\htdocs\app\system\Validation\Validation.php on line 338
+[Method: POST, Route: backend/masterjenisdatas/update/1]
+in SYSTEMPATH\Validation\StrictRules\Rules.php on line 204.
+ 1 SYSTEMPATH\Validation\Validation.php(338): CodeIgniter\Validation\StrictRules\Rules->is_unique('Data lama', null)
+ 2 SYSTEMPATH\Validation\Validation.php(204): CodeIgniter\Validation\Validation->processRules('jenis_data', 'jenis_data', 'Data lama', [...], [...], 'jenis_data')
+ 3 SYSTEMPATH\Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Backend\Masterjenisdatas.php(71): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterjenisdatas->update('1')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterjenisdatas))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 02:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 02:30:15 --> TypeError: CodeIgniter\Validation\StrictRules\Rules::is_unique(): Argument #2 ($field) must be of type string, null given, called in C:\xampp\htdocs\app\system\Validation\Validation.php on line 338
+[Method: POST, Route: backend/masterjenisdatas/update/1]
+in SYSTEMPATH\Validation\StrictRules\Rules.php on line 204.
+ 1 SYSTEMPATH\Validation\Validation.php(338): CodeIgniter\Validation\StrictRules\Rules->is_unique('Data baruuu', null)
+ 2 SYSTEMPATH\Validation\Validation.php(204): CodeIgniter\Validation\Validation->processRules('jenis_data', 'jenis_data', 'Data baruuu', [...], [...], 'jenis_data')
+ 3 SYSTEMPATH\Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Backend\Masterjenisdatas.php(71): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterjenisdatas->update('1')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterjenisdatas))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 02:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 02:32:08 --> TypeError: CodeIgniter\Validation\StrictRules\Rules::is_unique(): Argument #2 ($field) must be of type string, null given, called in C:\xampp\htdocs\app\system\Validation\Validation.php on line 338
+[Method: POST, Route: backend/masterjenisdatas/update/1]
+in SYSTEMPATH\Validation\StrictRules\Rules.php on line 204.
+ 1 SYSTEMPATH\Validation\Validation.php(338): CodeIgniter\Validation\StrictRules\Rules->is_unique('Data baru', null)
+ 2 SYSTEMPATH\Validation\Validation.php(204): CodeIgniter\Validation\Validation->processRules('jenis_data', 'jenis_data', 'Data baru', [...], [...], 'jenis_data')
+ 3 SYSTEMPATH\Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Backend\Masterjenisdatas.php(71): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterjenisdatas->update('1')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterjenisdatas))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 02:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 02:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:00:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:07:45 --> ArgumentCountError: Too few arguments to function App\Controllers\Backend\MasterDisagregasis::edit(), 0 passed in C:\xampp\htdocs\app\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: backend/masterdisagregasis/edit/]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 58.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:09:03 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:09:23 --> ArgumentCountError: Too few arguments to function App\Controllers\Backend\MasterDisagregasis::edit(), 0 passed in C:\xampp\htdocs\app\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: backend/masterdisagregasis/edit/]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 58.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:10:40 --> ArgumentCountError: Too few arguments to function App\Controllers\Backend\MasterDisagregasis::edit(), 0 passed in C:\xampp\htdocs\app\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: backend/masterdisagregasis/edit/]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 58.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:10:51 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/masterdisagregasis/edit/kabupaten]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('kabupaten')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:11:08 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:11:14 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:12:24 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:12:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend/masterdisagregasi/edit.php"
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/masterdisagregasi/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterdisagregasi/edit', [], true)
+ 3 APPPATH\Controllers\Backend\MasterDisagregasis.php(67): view('backend/masterdisagregasi/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:12:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend/masterdisagregasi/edit.php"
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/masterdisagregasi/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterdisagregasi/edit', [], true)
+ 3 APPPATH\Controllers\Backend\MasterDisagregasis.php(67): view('backend/masterdisagregasi/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:13:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend/masterdisagregasi/edit.php"
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/masterdisagregasi/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterdisagregasi/edit', [], true)
+ 3 APPPATH\Controllers\Backend\MasterDisagregasis.php(67): view('backend/masterdisagregasi/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:15:47 --> Error: Call to a member function getData() on null
+[Method: POST, Route: backend/masterdisagregasis/update/6]
+in APPPATH\Controllers\Backend\MasterDisagregasis.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->update('6')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:16:43 --> TypeError: url_title(): Argument #1 ($str) must be of type string, null given, called in C:\xampp\htdocs\app\app\Controllers\Backend\MasterDisagregasis.php on line 91
+[Method: POST, Route: backend/masterdisagregasis/update/6]
+in SYSTEMPATH\Helpers\url_helper.php on line 426.
+ 1 APPPATH\Controllers\Backend\MasterDisagregasis.php(91): url_title(null, '-', true)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->update('6')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:16:48 --> TypeError: url_title(): Argument #1 ($str) must be of type string, null given, called in C:\xampp\htdocs\app\app\Controllers\Backend\MasterDisagregasis.php on line 91
+[Method: POST, Route: backend/masterdisagregasis/update/6]
+in SYSTEMPATH\Helpers\url_helper.php on line 426.
+ 1 APPPATH\Controllers\Backend\MasterDisagregasis.php(91): url_title(null, '-', true)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->update('6')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:17:13 --> TypeError: url_title(): Argument #1 ($str) must be of type string, null given, called in C:\xampp\htdocs\app\app\Controllers\Backend\MasterDisagregasis.php on line 91
+[Method: POST, Route: backend/masterdisagregasis/update/6]
+in SYSTEMPATH\Helpers\url_helper.php on line 426.
+ 1 APPPATH\Controllers\Backend\MasterDisagregasis.php(91): url_title(null, '-', true)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->update('6')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:19:02 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: backend/masterdisagregasis/edit/provinsi]
+in APPPATH\Views\backend\masterdisagregasi\edit.php on line 12.
+ 1 APPPATH\Views\backend\masterdisagregasi\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterdisagregasi\\edit.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterdisagregasi\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterdisagregasi/edit', [], true)
+ 5 APPPATH\Controllers\Backend\MasterDisagregasis.php(67): view('backend/masterdisagregasi/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\MasterDisagregasis->edit('provinsi')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\MasterDisagregasis))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:20:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:31:25 --> ErrorException: Undefined variable $r
+[Method: GET, Route: backend/masterstatus/index]
+in APPPATH\Views\backend\masterstatus\index.php on line 59.
+ 1 APPPATH\Views\backend\masterstatus\index.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/index', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(29): view('backend/masterstatus/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:31:49 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: backend/masterstatus/edit/data-rilis]
+in APPPATH\Views\backend\masterstatus\edit.php on line 14.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('data-rilis')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:53:18 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: backend/masterstatus/edit/data-rilis]
+in APPPATH\Views\backend\masterstatus\edit.php on line 14.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('data-rilis')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:53:27 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: backend/masterstatus/edit/data-rilis]
+in APPPATH\Views\backend\masterstatus\edit.php on line 14.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('data-rilis')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 03:54:00 --> ErrorException: Undefined array key "nm_status"
+[Method: GET, Route: backend/masterstatus/edit/data-rilis]
+in APPPATH\Views\backend\masterstatus\edit.php on line 20.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_status"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('data-rilis')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-28 03:58:09 --> mysqli_sql_exception: Unknown column 'status.id' in 'where clause' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `status`...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `status`...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `status`...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status`...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(1028): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\app\system\Model.php(865): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\app\system\BaseModel.php(749): CodeIgniter\Model->update('1', Array)
+#8 C:\xampp\htdocs\app\app\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+#11 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-10-28 03:58:09 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id' in 'where clause'
+[Method: POST, Route: backend/masterstatus/update/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status` SET `slug` = :slug:, `penulis` = :penulis:, `updated_at` = :updated_at:
+WHERE `status`.`id` IN :status.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('1', [...])
+ 6 APPPATH\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 03:58:09 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:09\'
+WHERE `status`.`id` IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:09\'
+WHERE `status`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status` SET `slug` = :slug:, `penulis` = :penulis:, `updated_at` = :updated_at:
+WHERE `status`.`id` IN :status.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('1', [...])
+ 8 APPPATH\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 03:58:09 --> [Caused by] mysqli_sql_exception: Unknown column 'status.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:09\'
+WHERE `status`.`id` IN (\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:09\'
+WHERE `status`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:09\'
+WHERE `status`.`id` IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status` SET `slug` = :slug:, `penulis` = :penulis:, `updated_at` = :updated_at:
+WHERE `status`.`id` IN :status.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('1', [...])
+ 9 APPPATH\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 03:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 03:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-28 03:58:56 --> mysqli_sql_exception: Unknown column 'status.id' in 'where clause' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `status`...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `status`...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `status`...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status`...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(1028): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\app\system\Model.php(865): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\app\system\BaseModel.php(749): CodeIgniter\Model->update('1', Array)
+#8 C:\xampp\htdocs\app\app\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+#11 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-10-28 03:58:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id' in 'where clause'
+[Method: POST, Route: backend/masterstatus/update/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status` SET `slug` = :slug:, `penulis` = :penulis:, `updated_at` = :updated_at:
+WHERE `status`.`id` IN :status.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('1', [...])
+ 6 APPPATH\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 03:58:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:56\'
+WHERE `status`.`id` IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:56\'
+WHERE `status`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status` SET `slug` = :slug:, `penulis` = :penulis:, `updated_at` = :updated_at:
+WHERE `status`.`id` IN :status.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('1', [...])
+ 8 APPPATH\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 03:58:56 --> [Caused by] mysqli_sql_exception: Unknown column 'status.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:56\'
+WHERE `status`.`id` IN (\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:56\'
+WHERE `status`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `status` SET `slug` = \'daftar-data-diusulkan\', `penulis` = \'admin\', `updated_at` = \'2024-10-28 03:58:56\'
+WHERE `status`.`id` IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `status` SET `slug` = :slug:, `penulis` = :penulis:, `updated_at` = :updated_at:
+WHERE `status`.`id` IN :status.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('1', [...])
+ 9 APPPATH\Controllers\Backend\Masterstatus.php(109): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->update('1')
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 04:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 04:00:04 --> ErrorException: Undefined array key "id_status"
+[Method: GET, Route: backend/masterstatus/edit/data-rilis]
+in APPPATH\Views\backend\masterstatus\edit.php on line 14.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_status"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('data-rilis')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 04:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 04:00:11 --> ErrorException: Undefined array key "id_status"
+[Method: GET, Route: backend/masterstatus/edit/data-rilis]
+in APPPATH\Views\backend\masterstatus\edit.php on line 14.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_status"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('data-rilis')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 04:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 04:06:02 --> ErrorException: Undefined variable $r
+[Method: GET, Route: backend/masterstatus/index]
+in APPPATH\Views\backend\masterstatus\index.php on line 60.
+ 1 APPPATH\Views\backend\masterstatus\index.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php', 60)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/index', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(29): view('backend/masterstatus/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 04:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 04:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 06:06:31 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: backend/masterpusats/index]
+in APPPATH\Views\backend_layout\navbar.php on line 10.
+ 1 APPPATH\Views\backend_layout\navbar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend_layout\\navbar.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend_layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(487): CodeIgniter\View\View->render('backend_layout/navbar', null, true)
+ 5 APPPATH\Views\backend_layout\layout.php(2): CodeIgniter\View\View->include('backend_layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend_layout\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('backend_layout/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusat/index', [], true)
+10 APPPATH\Controllers\Backend\Masterpusats.php(27): view('backend/masterpusat/index', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterpusats->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterpusats))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 06:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:19:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 06:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-28 08:22:59 --> mysqli_sql_exception: Unknown column 'status.nama_status' in 'field list' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_...')
+#8 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2024-10-28 08:22:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.nama_status' in 'field list'
+[Method: GET, Route: backend/datas]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:22:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:22:59 --> [Caused by] mysqli_sql_exception: Unknown column 'status.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-28 08:23:32 --> mysqli_sql_exception: Unknown column 'status.nama_status' in 'field list' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_...')
+#8 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2024-10-28 08:23:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.nama_status' in 'field list'
+[Method: GET, Route: backend/datas]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:23:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:23:32 --> [Caused by] mysqli_sql_exception: Unknown column 'status.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-28 08:23:35 --> mysqli_sql_exception: Unknown column 'status.nama_status' in 'field list' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_...')
+#8 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2024-10-28 08:23:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.nama_status' in 'field list'
+[Method: GET, Route: backend/datas]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:23:35 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:23:35 --> [Caused by] mysqli_sql_exception: Unknown column 'status.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nama_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-28 08:24:23 --> mysqli_sql_exception: Unknown column 'status.id_status' in 'on clause' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_...')
+#8 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2024-10-28 08:24:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id_status' in 'on clause'
+[Method: GET, Route: backend/datas]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:24:23 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id_status' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:24:23 --> [Caused by] mysqli_sql_exception: Unknown column 'status.id_status' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-28 08:24:25 --> mysqli_sql_exception: Unknown column 'status.id_status' in 'on clause' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_...')
+#8 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2024-10-28 08:24:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id_status' in 'on clause'
+[Method: GET, Route: backend/datas]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:24:25 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status.id_status' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-28 08:24:25 --> [Caused by] mysqli_sql_exception: Unknown column 'status.id_status' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `data`.*, `divisi`.`nm_divisi`, `status`.`nm_status`, `format_data`.`nm_format`, `disagregasi`.`nm_disagregasi`, `jenis_data`.`jenis_data`
+FROM `data`
+INNER JOIN `divisi` ON `divisi`.`id` = `data`.`id_divisi`
+INNER JOIN `disagregasi` ON `disagregasi`.`id` = `data`.`id_disagregasi`
+INNER JOIN `status` ON `status`.`id_status` = `data`.`id_status_daftar`
+INNER JOIN `jenis_data` ON `jenis_data`.`id` = `data`.`id_jenis_data`
+INNER JOIN `format_data` ON `format_data`.`id` = `data`.`id_format`
+WHERE `data`.`id_status_daftar` > 5', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Backend\Datas.php(61): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Backend\Datas.php(71): App\Controllers\Backend\Datas->builder('data.id_status_daftar >5')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 08:28:32 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: backend/masterstatus/index]
+in APPPATH\Views\backend\masterstatus\index.php on line 60.
+ 1 APPPATH\Views\backend\masterstatus\index.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php', 60)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/index', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(29): view('backend/masterstatus/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 08:29:39 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: backend/masterstatus/edit/daftar-data-diusulkan]
+in APPPATH\Views\backend\masterstatus\edit.php on line 14.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('daftar-data-diusulkan')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 08:30:10 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: backend/masterstatus/edit/daftar-data-diusulkan]
+in APPPATH\Views\backend\masterstatus\edit.php on line 18.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('daftar-data-diusulkan')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 08:30:34 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: backend/masterstatus/edit/daftar-data-diusulkan]
+in APPPATH\Views\backend\masterstatus\edit.php on line 18.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('daftar-data-diusulkan')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-28 08:31:20 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: backend/masterstatus/edit/blank.html]
+in APPPATH\Views\backend\masterstatus\edit.php on line 14.
+ 1 APPPATH\Views\backend\masterstatus\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/edit', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(83): view('backend/masterstatus/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->edit('blank.html')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-28 08:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-28 08:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

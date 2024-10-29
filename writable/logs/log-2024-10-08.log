@@ -1,0 +1,67 @@
+CRITICAL - 2024-10-08 02:53:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend/masterjenisdata/create.php"
+[Method: GET, Route: backend/masterjenisdatas/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/masterjenisdata/create.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterjenisdata/create', [], true)
+ 3 APPPATH\Controllers\Backend\Masterjenisdatas.php(30): view('backend/masterjenisdata/create')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterjenisdatas->create()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterjenisdatas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-08 06:34:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend_layout/footer.php"
+[Method: GET, Route: backend/masterstatus/index]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend_layout/footer.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend_layout/footer', [], true)
+ 3 APPPATH\Controllers\Backend\Masterstatus.php(19): view('backend_layout/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-08 06:35:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend_layout/footer.php"
+[Method: GET, Route: backend/masterjenisdatas/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend_layout/footer.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend_layout/footer', [], true)
+ 3 APPPATH\Controllers\Backend\Masterjenisdatas.php(31): view('backend_layout/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterjenisdatas->create()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterjenisdatas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-08 06:35:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend_layout/footer.php"
+[Method: GET, Route: backend/masterformatdatas/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend_layout/footer.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend_layout/footer', [], true)
+ 3 APPPATH\Controllers\Backend\Masterformatdatas.php(27): view('backend_layout/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterformatdatas->create()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterformatdatas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-08 08:35:50 --> ErrorException: Undefined variable $nama_status
+[Method: GET, Route: backend/masterstatus/index]
+in APPPATH\Views\backend\masterstatus\index.php on line 43.
+ 1 APPPATH\Views\backend\masterstatus\index.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_status', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterstatus\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterstatus/index', [], true)
+ 5 APPPATH\Controllers\Backend\Masterstatus.php(24): view('backend/masterstatus/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')

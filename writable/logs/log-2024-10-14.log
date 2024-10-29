@@ -1,0 +1,736 @@
+CRITICAL - 2024-10-14 00:37:08 --> ErrorException: Undefined variable $validation
+[Method: GET, Route: backend/masterpusats/create]
+in APPPATH\Views\backend\masterpusat\create.php on line 15.
+ 1 APPPATH\Views\backend\masterpusat\create.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\create.php', 15)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusat/create', [], true)
+ 5 APPPATH\Controllers\Backend\Masterpusats.php(63): view('backend/masterpusat/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterpusats->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterpusats))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 00:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 00:38:10 --> ErrorException: Undefined variable $validation
+[Method: GET, Route: backend/masterpusats/create]
+in APPPATH\Views\backend\masterpusat\create.php on line 17.
+ 1 APPPATH\Views\backend\masterpusat\create.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\create.php', 17)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusat/create', [], true)
+ 5 APPPATH\Controllers\Backend\Masterpusats.php(63): view('backend/masterpusat/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterpusats->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterpusats))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 00:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 00:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 01:07:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "backend/masterpusats/create.php"
+[Method: POST, Route: backend/masterpusats/save]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/masterpusats/create.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusats/create', [], true)
+ 3 APPPATH\Controllers\Backend\Masterpusats.php(77): view('backend/masterpusats/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterpusats->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterpusats))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 01:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 01:09:18 --> ErrorException: Undefined variable $title
+[Method: POST, Route: backend/masterpusats/save]
+in APPPATH\Views\backend_layout\header.php on line 7.
+ 1 APPPATH\Views\backend_layout\header.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend_layout\\header.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend_layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(487): CodeIgniter\View\View->render('backend_layout/header', null, true)
+ 5 APPPATH\Views\backend_layout\layout.php(1): CodeIgniter\View\View->include('backend_layout/header')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend_layout\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('backend_layout/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusat/create', [], true)
+10 APPPATH\Controllers\Backend\Masterpusats.php(77): view('backend/masterpusat/create', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterpusats->save()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterpusats))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 01:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 01:51:41 --> ErrorException: Undefined variable $divisi
+[Method: GET, Route: backend/datas]
+in APPPATH\Views\backend\masterpusat\index.php on line 53.
+ 1 APPPATH\Views\backend\masterpusat\index.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $divisi', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\index.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusat/index', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(24): view('backend/masterpusat/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 01:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 01:52:15 --> ErrorException: Undefined variable $divisi
+[Method: GET, Route: backend/datas]
+in APPPATH\Views\backend\masterpusat\index.php on line 53.
+ 1 APPPATH\Views\backend\masterpusat\index.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $divisi', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\index.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusat/index', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(24): view('backend/masterpusat/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 01:52:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 01:52:40 --> ErrorException: Undefined variable $divisi
+[Method: GET, Route: backend/datas]
+in APPPATH\Views\backend\masterpusat\index.php on line 53.
+ 1 APPPATH\Views\backend\masterpusat\index.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $divisi', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\index.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\masterpusat\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/masterpusat/index', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(24): view('backend/masterpusat/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 01:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 01:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 02:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 02:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 02:11:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 03:23:48 --> ErrorException: Undefined variable $pusat
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 27.
+ 1 APPPATH\Views\backend\datas\create.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pusat', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 27)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(52): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 03:28:06 --> BadMethodCallException: Call to undefined method App\Models\ModelPusats::getPusats
+[Method: GET, Route: backend/datas/create]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Backend\Datas.php(49): CodeIgniter\Model->__call('getPusats', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 03:28:46 --> ErrorException: Undefined variable $jenis_data
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 37.
+ 1 APPPATH\Views\backend\datas\create.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenis_data', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 37)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(52): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 03:28:47 --> ErrorException: Undefined variable $jenis_data
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 37.
+ 1 APPPATH\Views\backend\datas\create.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jenis_data', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 37)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(52): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 03:29:05 --> ErrorException: Undefined array key "nm_divisi"
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 29.
+ 1 APPPATH\Views\backend\datas\create.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_divisi"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(53): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 03:30:31 --> ErrorException: Undefined array key "nm_divisi"
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 29.
+ 1 APPPATH\Views\backend\datas\create.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_divisi"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(53): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 03:30:33 --> ErrorException: Undefined array key "nm_divisi"
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 29.
+ 1 APPPATH\Views\backend\datas\create.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_divisi"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(53): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 03:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 03:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 03:40:46 --> ErrorException: Undefined variable $r
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 29.
+ 1 APPPATH\Views\backend\datas\create.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(53): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 03:48:53 --> ErrorException: Undefined array key "format_data"
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Views\backend\datas\create.php on line 63.
+ 1 APPPATH\Views\backend\datas\create.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "format_data"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php', 63)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/create', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(55): view('backend/datas/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 04:04:24 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Controllers\Backend\Datas.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 04:05:26 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Controllers\Backend\Datas.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 04:06:14 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Controllers\Backend\Datas.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 04:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 04:17:03 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Controllers\Backend\Datas.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 04:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 04:17:09 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Controllers\Backend\Datas.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 04:18:12 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Controllers\Backend\Datas.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 04:18:13 --> Error: Call to a member function getData() on null
+[Method: GET, Route: backend/datas/create]
+in APPPATH\Controllers\Backend\Datas.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 04:45:02 --> ErrorException: Undefined variable $header
+[Method: POST, Route: backend/datas/save]
+in APPPATH\Views\backend\datas\index.php on line 10.
+ 1 APPPATH\Views\backend\datas\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $header', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/index', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(66): view('backend/datas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 04:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 04:46:22 --> ErrorException: Undefined variable $datas
+[Method: POST, Route: backend/datas/save]
+in APPPATH\Views\backend\datas\index.php on line 51.
+ 1 APPPATH\Views\backend\datas\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datas', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/index', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(68): view('backend/datas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 06:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-14 06:18:07 --> mysqli_sql_exception: Unknown column 'media_pengumpulan' in 'field list' in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\app\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\app\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+#11 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-10-14 06:18:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'media_pengumpulan' in 'field list'
+[Method: POST, Route: backend/datas/save]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (:nm_data:, :slug:, :id_divisi:, :id_format:, :id_jenis_data:, :id_disagregasi:, :id_status:, :metode:, :media_pengumpulan:, :akses:, :waktu_pengumpulan:, :jadwal_pemuktahiran:, :periode_daftar:, :periode_awal:, :periode_akhir:, :penanggung_jawab:, :kontak_produsen:, :deskripsi:, :status_prio:, :alasan:, :image:, :penulis:, :highlight:, :excel:, :pdf:, :berita_acara:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:18:07 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'media_pengumpulan' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:18:07\', \'2024-10-14 06:18:07\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:18:07\', \'2024-10-14 06:18:07\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (:nm_data:, :slug:, :id_divisi:, :id_format:, :id_jenis_data:, :id_disagregasi:, :id_status:, :metode:, :media_pengumpulan:, :akses:, :waktu_pengumpulan:, :jadwal_pemuktahiran:, :periode_daftar:, :periode_awal:, :periode_akhir:, :penanggung_jawab:, :kontak_produsen:, :deskripsi:, :status_prio:, :alasan:, :image:, :penulis:, :highlight:, :excel:, :pdf:, :berita_acara:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:18:07 --> [Caused by] mysqli_sql_exception: Unknown column 'media_pengumpulan' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:18:07\', \'2024-10-14 06:18:07\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:18:07\', \'2024-10-14 06:18:07\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:18:07\', \'2024-10-14 06:18:07\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (:nm_data:, :slug:, :id_divisi:, :id_format:, :id_jenis_data:, :id_disagregasi:, :id_status:, :metode:, :media_pengumpulan:, :akses:, :waktu_pengumpulan:, :jadwal_pemuktahiran:, :periode_daftar:, :periode_awal:, :periode_akhir:, :penanggung_jawab:, :kontak_produsen:, :deskripsi:, :status_prio:, :alasan:, :image:, :penulis:, :highlight:, :excel:, :pdf:, :berita_acara:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:18:54 --> TypeError: url_title(): Argument #1 ($str) must be of type string, null given, called in C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php on line 91
+[Method: GET, Route: backend/datas/save]
+in SYSTEMPATH\Helpers\url_helper.php on line 426.
+ 1 APPPATH\Controllers\Backend\Datas.php(91): url_title(null, '-', true)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:21:03 --> TypeError: url_title(): Argument #1 ($str) must be of type string, null given, called in C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php on line 91
+[Method: GET, Route: backend/datas/save]
+in SYSTEMPATH\Helpers\url_helper.php on line 426.
+ 1 APPPATH\Controllers\Backend\Datas.php(91): url_title(null, '-', true)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:21:06 --> TypeError: url_title(): Argument #1 ($str) must be of type string, null given, called in C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php on line 91
+[Method: GET, Route: backend/datas/save]
+in SYSTEMPATH\Helpers\url_helper.php on line 426.
+ 1 APPPATH\Controllers\Backend\Datas.php(91): url_title(null, '-', true)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 06:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-14 06:21:20 --> mysqli_sql_exception: Column 'alasan' cannot be null in C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\app\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\app\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\app\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\app\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\app\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\app\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\app\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\app\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\app\app\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\app\system\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+#10 C:\xampp\htdocs\app\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+#11 C:\xampp\htdocs\app\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\app\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\app\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\app\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\app\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-10-14 06:21:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'alasan' cannot be null
+[Method: POST, Route: backend/datas/save]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (:nm_data:, :slug:, :id_divisi:, :id_format:, :id_jenis_data:, :id_disagregasi:, :id_status:, :metode:, :media_pengumpulan:, :akses:, :waktu_pengumpulan:, :jadwal_pemuktahiran:, :periode_daftar:, :periode_awal:, :periode_akhir:, :penanggung_jawab:, :kontak_produsen:, :deskripsi:, :status_prio:, :alasan:, :image:, :penulis:, :highlight:, :excel:, :pdf:, :berita_acara:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:21:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'alasan' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:21:20\', \'2024-10-14 06:21:20\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:21:20\', \'2024-10-14 06:21:20\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (:nm_data:, :slug:, :id_divisi:, :id_format:, :id_jenis_data:, :id_disagregasi:, :id_status:, :metode:, :media_pengumpulan:, :akses:, :waktu_pengumpulan:, :jadwal_pemuktahiran:, :periode_daftar:, :periode_awal:, :periode_akhir:, :penanggung_jawab:, :kontak_produsen:, :deskripsi:, :status_prio:, :alasan:, :image:, :penulis:, :highlight:, :excel:, :pdf:, :berita_acara:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:21:20 --> [Caused by] mysqli_sql_exception: Column 'alasan' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:21:20\', \'2024-10-14 06:21:20\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:21:20\', \'2024-10-14 06:21:20\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (\'Jumlah Koleksi Hasil Serah Simpan Karya Cetak Karya Rekam (KCKR) Tahun 2023\', \'jumlah-koleksi-hasil-serah-simpan-karya-cetak-karya-rekam-kckr-tahun-2023\', NULL, \'3\', \'1\', \'1\', NULL, \'Pencatatan Aplikasi\', \'Laporan Kemenkeu\', \'Tertutup\', \'2023-12-31\', \'Tahunan\', \'2023\', \'2023-01-01\', \'2023-12-31\', \'Direktur Depbangkol\', \'-\', \'<p>-</p>\', \'Non Data Prioritas\', NULL, \'\', \'Admin\', \'\', \'\', \'\', \'\', \'2024-10-14 06:21:20\', \'2024-10-14 06:21:20\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data` (`nm_data`, `slug`, `id_divisi`, `id_format`, `id_jenis_data`, `id_disagregasi`, `id_status`, `metode`, `media_pengumpulan`, `akses`, `waktu_pengumpulan`, `jadwal_pemuktahiran`, `periode_daftar`, `periode_awal`, `periode_akhir`, `penanggung_jawab`, `kontak_produsen`, `deskripsi`, `status_prio`, `alasan`, `image`, `penulis`, `highlight`, `excel`, `pdf`, `berita_acara`, `created_at`, `updated_at`) VALUES (:nm_data:, :slug:, :id_divisi:, :id_format:, :id_jenis_data:, :id_disagregasi:, :id_status:, :metode:, :media_pengumpulan:, :akses:, :waktu_pengumpulan:, :jadwal_pemuktahiran:, :periode_daftar:, :periode_awal:, :periode_akhir:, :penanggung_jawab:, :kontak_produsen:, :deskripsi:, :status_prio:, :alasan:, :image:, :penulis:, :highlight:, :excel:, :pdf:, :berita_acara:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Backend\Datas.php(122): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->save()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 06:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 06:28:01 --> BadMethodCallException: Call to undefined method App\Models\ModelStatus::getStatus
+[Method: GET, Route: backend/masterstatus/index]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Backend\Masterstatus.php(22): CodeIgniter\Model->__call('getStatus', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:28:32 --> ArgumentCountError: Too few arguments to function CodeIgniter\Model::getData(), 0 passed in C:\xampp\htdocs\app\app\Controllers\Backend\Masterstatus.php on line 22 and at least 1 expected
+[Method: GET, Route: backend/masterstatus/index]
+in SYSTEMPATH\Model.php on line 951.
+ 1 APPPATH\Controllers\Backend\Masterstatus.php(22): CodeIgniter\Model->getData()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 06:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:29:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 06:52:08 --> Error: Call to a member function select() on null
+[Method: GET, Route: backend/masterstatus]
+in APPPATH\Controllers\Backend\Masterstatus.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+CRITICAL - 2024-10-14 06:57:49 --> Error: Call to a member function select() on null
+[Method: GET, Route: backend/masterstatus]
+in APPPATH\Controllers\Backend\Masterstatus.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Masterstatus->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Masterstatus))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 06:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 06:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-14 07:03:15 --> ErrorException: Undefined array key "jenis_data"
+[Method: GET, Route: backend/datas/daftar_usulan_data]
+in APPPATH\Views\backend\datas\daftar_usulan_data.php on line 62.
+ 1 APPPATH\Views\backend\datas\daftar_usulan_data.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenis_data"', 'C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\daftar_usulan_data.php', 62)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\app\\app\\Views\\backend\\datas\\daftar_usulan_data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/datas/daftar_usulan_data', [], true)
+ 5 APPPATH\Controllers\Backend\Datas.php(60): view('backend/datas/daftar_usulan_data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Datas->daftar_usulan_data()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Datas))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\app\\public\\index.php')
+INFO - 2024-10-14 07:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 07:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 08:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-14 12:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
